@@ -25,8 +25,8 @@ namespace COVID.App.Frontend
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
             services.AddControllersWithViews();
+            services.AddRazorPages();
             //services.AddSingleton<IRepositorioDirectivo, RepositorioDirectivo>();
             //services.AddSingleton<IRepositorioEstudiante, RepositorioEstudiante>();
             //services.AddSingleton<IRepositorioPersonal_Aseo, IRepositorioPersonal_Aseo>();
@@ -57,8 +57,8 @@ namespace COVID.App.Frontend
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                name: "default",
-                pattern:"{controller=Home}/{action=Index}/{id?}");
+                    name: "default",
+                    pattern:"{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }

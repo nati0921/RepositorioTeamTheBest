@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using COVID.App.Persistencia;
 using COVID.App.Dominio;
+using Microsoft.AspNetCore.Authorization;
 
 namespace COVID.App.Frontend.Pages
 {
+    [Authorize]
     public class SalonesModel : PageModel
     {
         private static IRepositorioSalon _repoSalon = new RepositorioSalon(new Persistencia.AppContext());

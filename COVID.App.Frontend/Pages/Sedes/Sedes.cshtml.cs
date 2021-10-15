@@ -7,10 +7,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 using COVID.App.Persistencia;
 using COVID.App.Dominio;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace COVID.App.Frontend.Pages
 {
+    [Authorize]
     public class SedesModel : PageModel
     {
         private static IRepositorioSede _repoSede = new RepositorioSede(new Persistencia.AppContext());
