@@ -1,0 +1,37 @@
+﻿@page
+@model COVID.App.Frontend.Pages.EliminarDirectivoModel
+@{
+}
+<h1>Eliminar Directivo</h1>
+<h2>Se va a eliminar el siguiente directivo</h2>
+<table class="table">
+    <tr>
+        <td>Nombre: </td>
+        <td>@Model.directivos.nombre</td>       
+    </tr>
+    <tr>
+        <td>Apellido: </td>
+        <td>@Model.directivos.apellido</td>
+    </tr>
+    <tr> 
+        <td>Edad: </td>
+        <td>@Model.directivos.edad</td>
+    </tr>
+    <tr>
+        <td>Estado: </td>
+        <td>@Model.directivos.estado</td>
+    </tr>
+    <tr> 
+        <td>Facultad: </td>
+        <td>@Model.directivos.facultad</td>
+    </tr>
+
+</table>
+<form method="post">
+    <input type="hidden" asp-for="directivos.id">
+    <button type="submit" class="btn btn-primary">Confirmar Eliminar</button>
+    <a asp-page="/Listas/Directivo/Directivo" class="btn btn-primary">Gestor de Directivos</a>
+    <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+        <i class="fas fa-home">Inicio</i>
+    </a>
+</form>

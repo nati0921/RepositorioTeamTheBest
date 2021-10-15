@@ -1,0 +1,46 @@
+﻿@page
+@model COVID.App.Frontend.Pages.SedesModel
+@{
+}
+<h1>Gestor de Sedes</h1>
+
+<h2>Lista de Sedes</h2>
+<table class="table">
+    <tr>
+            <td><b>ID</b></td>
+            <td><b>Nombre</b></td>
+            <td><b>No.de Salones</b></td>
+    </tr>
+    @foreach(var sede in Model.Sedes)
+    {
+        <tr>
+            <td>@sede.id</td>
+            <td>@sede.nombre_sede</td>
+            <td>@sede.cantidad_salones</td>
+            <td>
+                <a class="btn btn-primary table-btn"  asp-page="/Sedes/DetalleSede" asp-route-idsede="@sede.id">
+                    <i class="fas fa-info-circle fa-lg" aria-hidden="true"></i>
+                    Detalle
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-secondary table-btn"  asp-page="/Sedes/EditarSede" asp-route-idsede="@sede.id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                    Editar
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger table-btn"  asp-page="/Sedes/EliminarSede" asp-route-idsede="@sede.id">
+                    <i class="fas fa-book-dead fa-lg" aria-hidden="true"></i>
+                    Eliminar
+                </a>
+            </td>
+            
+        </tr>
+    }
+</table>
+
+<a asp-page="/Sedes/EditarSede" class="btn btn-primary">Adicionar Sede</a>
+<a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+    <i class="fas fa-home">Inicio</i>
+</a>

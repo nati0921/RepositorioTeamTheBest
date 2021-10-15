@@ -1,0 +1,33 @@
+﻿@page
+@model COVID.App.Frontend.Pages.EliminarSalonesModel
+@{
+}
+<h1>Eliminar Salon</h1>
+<h2>Se va a eliminar el siguiente salon</h2>
+<table class="table">
+    <tr>
+        <td>No. Salon: </td>
+        <td>@Model.salones.numerosalon</td>       
+    </tr>
+    <tr>
+        <td>Aforo: </td>
+        <td>@Model.salones.aforo</td>
+    </tr>
+    <tr> 
+        <td>Sede: </td>
+        <td>@Model.salones.sede</td>
+    </tr>
+    <tr>
+        <td>Unidad: </td>
+        <td>@Model.salones.unidad</td>
+    </tr>
+
+</table>
+<form method="post">
+    <input type="hidden" asp-for="salones.id">
+    <button type="submit" class="btn btn-primary">Confirmar Eliminar</button>
+    <a asp-page="/Salones/Salones" class="btn btn-primary">Gestor de Salones</a>
+    <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+        <i class="fas fa-home">Inicio</i>
+    </a>
+</form>

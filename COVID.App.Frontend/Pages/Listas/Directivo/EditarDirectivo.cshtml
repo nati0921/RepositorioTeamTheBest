@@ -1,0 +1,31 @@
+﻿@page
+@model COVID.App.Frontend.Pages.EditarDirectivoModel
+@{
+}
+<h1>Editar Directivo</h1>
+<form method="post">
+    <input type="hidden" asp-for="directivos.id">
+    <div class="form-group">
+        <label asp-for="directivos.nombre">Nombre:</label>
+        <input asp-for="directivos.nombre" class="form-control" size"60" style="width:500px">
+        <span class="text_danger" asp-validation.for="directivos.nombre"></span>
+    <div class="form-group">
+        <label asp-for="directivos.apellido">Apellido:</label>
+        <input asp-for="directivos.apellido" class="form-control" size"60" style="width:500px">
+    </div>
+        <label asp-for="directivos.edad">Edad:</label>
+        <input asp-for="directivos.edad" class="form-control" size"60" style="width:500px">
+    <div class="form-group">
+        <label asp-for="directivos.estado">Estado:</label>
+        <input asp-for="directivos.estado" class="form-control" size"60" style="width:500px">
+    </div>
+    <div class="form-group">
+        <label asp-for="directivos.facultad">Facultad:</label>
+        <input asp-for="directivos.facultad" class="form-control" size"60" style="width:500px">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-page="/Listas/Directivo/Directivo" class="btn btn-primary">Gestor de Estudiante</a>
+    <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+        <i class="fas fa-home">Inicio</i>
+    </a>
+</form>

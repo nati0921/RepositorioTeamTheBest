@@ -1,0 +1,41 @@
+﻿@page
+@model COVID.App.Frontend.Pages.EliminarEstudiantesModel
+@{
+}
+<h1>Eliminar Estudiantes</h1>
+<h2>Se va a eliminar el siguiente estudiante</h2>
+<table class="table">
+    <tr>
+        <td>Nombre: </td>
+        <td>@Model.estudiantes.nombre</td>       
+    </tr>
+    <tr>
+        <td>Apellido: </td>
+        <td>@Model.estudiantes.apellido</td>
+    </tr>
+    <tr> 
+        <td>Edad: </td>
+        <td>@Model.estudiantes.edad</td>
+    </tr>
+    <tr>
+        <td>Estado: </td>
+        <td>@Model.estudiantes.estado</td>
+    </tr>
+    <tr> 
+        <td>Carrera: </td>
+        <td>@Model.estudiantes.carrera</td>
+    </tr>
+    <tr>
+        <td>Semestre: </td>
+        <td>@Model.estudiantes.semestre</td>
+    </tr>
+
+</table>
+<form method="post">
+    <input type="hidden" asp-for="estudiantes.id">
+    <button type="submit" class="btn btn-primary">Confirmar Eliminar</button>
+    <a asp-page="/Listas/Estudiante/Estudiantes" class="btn btn-primary">Gestor de Estudiante</a>
+    <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+        <i class="fas fa-home">Inicio</i>
+    </a>
+</form>

@@ -1,0 +1,24 @@
+﻿@page
+@model COVID.App.Frontend.Pages.DetalleSedeModel
+@{
+}
+<h1>Detalle Sede</h1>
+<table class="table">
+    <tr>
+        <td>ID: </td>
+        <td>@Model.Sedes.id</td>       
+    </tr>
+    <tr>
+        <td>Nombre: </td>
+        <td>@Model.Sedes.nombre_sede</td>
+    </tr>
+    <tr> 
+        <td>No. de Salones: </td>
+        <td>@Model.Sedes.cantidad_salones</td>
+    </tr>
+    
+</table>
+<a asp-page="/Sedes/Sedes" class="btn btn-primary">Gestor de Sedes</a>
+<a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+    <i class="fas fa-home">Inicio</i>
+</a>

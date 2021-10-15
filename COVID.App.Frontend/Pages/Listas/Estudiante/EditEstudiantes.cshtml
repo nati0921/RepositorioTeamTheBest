@@ -1,0 +1,35 @@
+﻿@page
+@model COVID.App.Frontend.Pages.EditEstudiantesModel
+@{
+}
+<h1>Editar Estudiante</h1>
+<form method="post">
+    <input type="hidden" asp-for="estudiantes.id">
+    <div class="form-group">
+        <label asp-for="estudiantes.nombre">Nombre:</label>
+        <input asp-for="estudiantes.nombre" class="form-control" size"60" style="width:500px">
+        <span class="text_danger" asp-validation.for="estudiante.nombre"></span>
+    <div class="form-group">
+        <label asp-for="estudiantes.apellido">Apellido:</label>
+        <input asp-for="estudiantes.apellido" class="form-control" size"60" style="width:500px">
+    </div>
+        <label asp-for="estudiantes.edad">Edad:</label>
+        <input asp-for="estudiantes.edad" class="form-control" size"60" style="width:500px">
+    <div class="form-group">
+        <label asp-for="estudiantes.estado">Estado:</label>
+        <input asp-for="estudiantes.estado" class="form-control" size"60" style="width:500px">
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiantes.carrera">Carrera:</label>
+        <input asp-for="estudiantes.carrera" class="form-control" size"60" style="width:500px">
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiantes.semestre">Semestre:</label>
+        <input asp-for="estudiantes.semestre" class="form-control" size"60" style="width:500px">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-page="/Listas/Estudiante/Estudiantes" class="btn btn-primary">Gestor de Estudiante</a>
+    <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+        <i class="fas fa-home">Inicio</i>
+    </a>
+</form>

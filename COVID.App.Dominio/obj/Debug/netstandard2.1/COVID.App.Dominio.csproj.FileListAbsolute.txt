@@ -1,0 +1,54 @@
+C:\COVID19\COVID.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csprojAssemblyReference.cache
+C:\COVID19\COVID.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfoInputs.cache
+C:\COVID19\COVID.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfo.cs
+C:\COVID19\COVID.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.deps.json
+C:\COVID19\COVID.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\COVID19\COVID.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\COVID19\COVID.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\COVID19\COVID.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.deps.json
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csprojAssemblyReference.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfoInputs.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfo.cs
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.CoreCompileInputs.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.deps.json
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csprojAssemblyReference.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfoInputs.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfo.cs
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.deps.json
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csprojAssemblyReference.cache
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfoInputs.cache
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfo.cs
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.CoreCompileInputs.cache
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.deps.json
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csprojAssemblyReference.cache
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfoInputs.cache
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfo.cs
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.CoreCompileInputs.cache
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.deps.json
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfoInputs.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfo.cs
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.CoreCompileInputs.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.AssemblyReference.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,72 @@
+C:\COVID19\COVID.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csprojAssemblyReference.cache
+C:\COVID19\COVID.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfoInputs.cache
+C:\COVID19\COVID.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfo.cs
+C:\COVID19\COVID.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.deps.json
+C:\COVID19\COVID.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.dll
+C:\COVID19\COVID.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+C:\COVID19\COVID.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\COVID19\COVID.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\COVID19\COVID.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CopyComplete
+C:\COVID19\COVID.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.dll
+C:\COVID19\COVID.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.deps.json
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csprojAssemblyReference.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfoInputs.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfo.cs
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CopyComplete
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.deps.json
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csprojAssemblyReference.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfoInputs.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfo.cs
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CopyComplete
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.deps.json
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.dll
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csprojAssemblyReference.cache
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfoInputs.cache
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfo.cs
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CopyComplete
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.dll
+D:\COVID Natalia\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.deps.json
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.dll
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csprojAssemblyReference.cache
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfoInputs.cache
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfo.cs
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CopyComplete
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.dll
+D:\COVID V2021100701\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.deps.json
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfoInputs.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.AssemblyInfo.cs
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.CopyComplete
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.csproj.AssemblyReference.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Persistencia\obj\Debug\netstandard2.1\COVID.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,270 @@
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.exe
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.deps.json
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.json
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.dev.json
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.dll
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.pdb
+C:\COVID19\COVID.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.pdb
+C:\COVID19\COVID.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csprojAssemblyReference.cache
+C:\COVID19\COVID.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfoInputs.cache
+C:\COVID19\COVID.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfo.cs
+C:\COVID19\COVID.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csproj.CopyComplete
+C:\COVID19\COVID.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.dll
+C:\COVID19\COVID.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.exe
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.deps.json
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.json
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.dev.json
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csprojAssemblyReference.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfoInputs.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfo.cs
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csproj.CoreCompileInputs.cache
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csproj.CopyComplete
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.dll
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+C:\COVID19-masterManuel\COVID19-master\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.genruntimeconfig.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.exe
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.deps.json
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.json
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.dev.json
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csprojAssemblyReference.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfoInputs.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfo.cs
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csproj.CoreCompileInputs.cache
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csproj.CopyComplete
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.dll
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+C:\Programacion\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.genruntimeconfig.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.exe
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.deps.json
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.json
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.runtimeconfig.dev.json
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Dominio.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csprojAssemblyReference.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfoInputs.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.AssemblyInfo.cs
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csproj.CoreCompileInputs.cache
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.csproj.CopyComplete
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.dll
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.pdb
+D:\COVID DANIEL\Covid19_V2.App\COVID.App.Consola\obj\Debug\netcoreapp3.1\COVID.App.Consola.genruntimeconfig.cache

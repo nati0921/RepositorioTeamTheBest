@@ -1,0 +1,27 @@
+﻿@page
+@model COVID.App.Frontend.Pages.EditarSalonesModel
+@{
+}
+<h1>Editar Salon</h1>
+<form method="post">
+    <input type="hidden" asp-for="salones.id">
+    <div class="form-group">
+        <label asp-for="salones.numerosalon">No. Salon:</label>
+        <input asp-for="salones.numerosalon" class="form-control" size"60" style="width:500px">
+        <span class="text_danger" asp-validation.for="salones.numerosalon"></span>
+    <div class="form-group">
+        <label asp-for="salones.aforo">Aforo:</label>
+        <input asp-for="salones.aforo" class="form-control" size"60" style="width:500px">
+    </div>
+        <label asp-for="salones.sede">Sede:</label>
+        <input asp-for="salones.sede" class="form-control" size"60" style="width:500px">
+    <div class="form-group">
+        <label asp-for="salones.unidad">Unidad:</label>
+        <input asp-for="salones.unidad" class="form-control" size"60" style="width:500px">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-page="/Salones/Salones" class="btn btn-primary">Gestor de Salones</a>
+    <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+        <i class="fas fa-home">Inicio</i>
+    </a>
+</form>

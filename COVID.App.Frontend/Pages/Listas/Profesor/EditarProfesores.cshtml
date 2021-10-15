@@ -1,0 +1,35 @@
+﻿@page
+@model COVID.App.Frontend.Pages.EditarProfesoresModel
+@{
+}
+<h1>Editar Profesor</h1>
+<form method="post">
+    <input type="hidden" asp-for="profesores.id">
+    <div class="form-group">
+        <label asp-for="profesores.nombre">Nombre:</label>
+        <input asp-for="profesores.nombre" class="form-control" size"60" style="width:500px">
+        <span class="text_danger" asp-validation.for="profesor.nombre"></span>
+    <div class="form-group">
+        <label asp-for="profesores.apellido">Apellido:</label>
+        <input asp-for="profesores.apellido" class="form-control" size"60" style="width:500px">
+    </div>
+        <label asp-for="profesores.edad">Edad:</label>
+        <input asp-for="profesores.edad" class="form-control" size"60" style="width:500px">
+    <div class="form-group">
+        <label asp-for="profesores.estado">Estado:</label>
+        <input asp-for="profesores.estado" class="form-control" size"60" style="width:500px">
+    </div>
+    <div class="form-group">
+        <label asp-for="profesores.departamento">Departamento:</label>
+        <input asp-for="profesores.departamento" class="form-control" size"60" style="width:500px">
+    </div>
+    <div class="form-group">
+        <label asp-for="profesores.asignatura">Asignatura:</label>
+        <input asp-for="profesores.asignatura" class="form-control" size"60" style="width:500px">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-page="/Listas/Profesor/Profesor" class="btn btn-primary">Gestor de Profesores</a>
+    <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+        <i class="fas fa-home">Inicio</i>
+    </a>
+</form>

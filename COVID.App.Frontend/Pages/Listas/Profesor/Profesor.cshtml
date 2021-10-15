@@ -1,0 +1,49 @@
+﻿@page
+@model COVID.App.Frontend.Pages.ProfesorModel
+@{
+}
+<br>
+<h1>Gestor de Profesores</h1>
+
+<h2>Lista de Profesores</h2>
+<table class="table">
+    <tr>
+            <td><b>Nombre</b></td>
+            <td><b>Apellidos</b></td>
+            <td><b>Edad</b></td>
+            <td><b>Estado COVID</b></td>
+    </tr>
+    @foreach(var profesor in Model.Profesores)
+    {
+        <tr>
+            <td>@profesor.nombre</td>
+            <td>@profesor.apellido</td>
+            <td>@profesor.edad</td>
+            <td>@profesor.estado</td>
+            <td>
+                <a class="btn btn-primary table-btn"  asp-page="/Listas/Profesor/DetallesProfesores" asp-route-idprofesor="@profesor.id">
+                    <i class="fas fa-info-circle fa-lg" aria-hidden="true"></i>
+                    Detalle
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-secondary table-btn"  asp-page="/Listas/Profesor/EditarProfesores" asp-route-idprofesor="@profesor.id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                    Editar
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger table-btn"  asp-page="/Listas/Profesor/EliminarProfesores" asp-route-idprofesor="@profesor.id">
+                    <i class="fas fa-book-dead fa-lg" aria-hidden="true"></i>
+                    Eliminar
+                </a>
+            </td>
+            
+        </tr>
+    }
+</table>
+
+<a asp-page="/Listas/Profesor/EditarProfesores" class="btn btn-primary">Adicionar Profesor</a>
+<a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+    <i class="fas fa-home">Inicio</i>
+</a>

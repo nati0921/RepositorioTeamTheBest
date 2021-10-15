@@ -1,0 +1,48 @@
+﻿@page
+@model COVID.App.Frontend.Pages.SalonesModel
+@{
+}
+<h1>Gestor de Salones</h1>
+
+<h2>Lista de Salones</h2>
+<table class="table">
+    <tr>
+            <td><b>No. Salon</b></td>
+            <td><b>Aforo</b></td>
+            <td><b>Sede</b></td>
+            <td><b>Unidad</b></td>
+    </tr>
+    @foreach(var salon in Model.Salones)
+    {
+        <tr>
+            <td>@salon.numerosalon</td>
+            <td>@salon.aforo</td>
+            <td>@salon.sede</td>
+            <td>@salon.unidad</td>
+            <td>
+                <a class="btn btn-primary table-btn"  asp-page="/Salones/DetallesSalones" asp-route-idsalon="@salon.id">
+                    <i class="fas fa-info-circle fa-lg" aria-hidden="true"></i>
+                    Detalle
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-secondary table-btn"  asp-page="/Salones/EditarSalones" asp-route-idsalon="@salon.id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                    Editar
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger table-btn"  asp-page="/Salones/EliminarSalones" asp-route-idsalon="@salon.id">
+                    <i class="fas fa-book-dead fa-lg" aria-hidden="true"></i>
+                    Eliminar
+                </a>
+            </td>
+            
+        </tr>
+    }
+</table>
+
+<a asp-page="/Salones/EditarSalones" class="btn btn-primary">Adicionar Salon</a>
+<a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+    <i class="fas fa-home">Inicio</i>
+</a>
